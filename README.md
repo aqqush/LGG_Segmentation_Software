@@ -7,3 +7,4 @@ Go to your terminal
 Access the folder path
 Type 'python GUI_Starter.py'
 
+
