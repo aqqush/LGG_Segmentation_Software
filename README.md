@@ -2,6 +2,7 @@
 Segmentation of pre-operative LGG in MRI
 
 To run software:
+
 Download the folder
 
 Go to your terminal
